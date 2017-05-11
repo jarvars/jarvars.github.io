@@ -4,10 +4,10 @@ bio:                'Un contenedor de variables.'
 description:        "Desarrollador de software, Freelance, PC Gaming, Entusiasta de nuevas tecnologías, Ensamble y modding de PC y servidores, adicto a la pizza y el café."
 reading_time:       true
 words_per_minute:   200
-logo:               'assets/img/logo.png'
-background:         'assets/img/placeholder-big.jpg'
+logo:               'assets/img/logo1.png'
+background:         'assets/img/back-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
-locale:             en_US
+locale:             es_CO
 url:                https://jarvars.github.io/
 
 # Jekyll
@@ -26,7 +26,7 @@ sass:
   style:            compressed
 
 # Comments
-disqus_shortname:   taylantatli
+disqus_shortname:   jarvars
 
 # Social
 # if you don't have any of social below, comment the line.
@@ -39,7 +39,7 @@ disqus_shortname:   taylantatli
 #bing-verify:
 #email:
 twitter:            reyes089
-facebook:           jarvars
+#facebook:           jarvars
 github-url:         jarvars
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
 #linkedin:          username
