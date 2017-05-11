@@ -1,24 +1,24 @@
 ---
 layout: page
-title: About the Theme
-tags: [about, Jekyll, theme, moon]
+title: Sobre mí
+tags: [about, cv, jarvars, mí]
 date: 2016-03-21
 comments: false
 ---
-    
-<center><a href="http://taylantatli.github.io/Moon"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+<center><a href="http://jarvars.github.io"><b>JarVars</b></a> es un blog personal, el cual a modo de contenedor de variables, pretende mostrar cada una de mis aficiones y experiencias sobre estás.</center>
+
+## Variables
+* Desarrollo de Software
+* Desarrollo Web
+* Testing y QA
+* Cultura Digital
+* Evangelista de la PC Master Race
+* Hardware, Modding
+* PC/Server Builder
+* PC Gaming
+* Fútbol y América de Cali
+* ...Undefinied Variables
 
 ## Preview
 
@@ -33,5 +33,5 @@ See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub
 ## Getting Started
 
 To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
-      
+
 [Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
