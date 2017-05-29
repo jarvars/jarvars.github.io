@@ -33,7 +33,7 @@ disqus_shortname:   jarvars
 #google:
   #plus:            #username
   analytics:        UA-98491146-1
-  #verify:
+  verify:           UA-98491146-1
   #ad-client:
   #ad-slot:
 bing-verify:        E048A84BFA40794D5B4E5B20BECEBDB6
