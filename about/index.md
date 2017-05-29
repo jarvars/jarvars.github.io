@@ -23,7 +23,7 @@ comments: false
 ## Mi
 
 <figure>
-    /assets/img/me/me_cp.jpg    
+    <img src="/assets/img/mi/me_cp.jpg">
 </figure>
 
 ## Despejar variables
