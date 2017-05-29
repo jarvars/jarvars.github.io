@@ -23,15 +23,23 @@ comments: false
 ## Preview
 
 {% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
+    assets/img/me/me_cp.jpg    
 {% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
+{% include gallery images=images caption="Yo." cols=2 %}
 
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
+## Despejar variables
 
-## Getting Started
+He estado postergando durante mucho tiempo, escribir algo de cada una de las cosas que me apasionan y en las que afortunadamente me desenvuelvo, trabajo y me muevo diariamente.
+Poco a poco este espacio debe irse llenando de esas variables que iré despejando y de esta manera compartir mis experiencias durante la formación, análisis y despeje de las variables.
 
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
+## Jorge Reyes
 
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+Desde pequeño tuve disposición y curiosidad con la informática en general, a los 12 años, por allá en el ´94, desarmé un PC por mera curiosidad, porque no pude encenderlo ya que tenia una contraseña de usuario, luego pude saltarme esa "seguridad" y tuve contacto con lo que llaman un sistema operativo...hasta ahí funcionó bien.
+Estudié por ahí una carrera Técnica en Ingeniería de Sistemas, supuestamente era una carrera que abriría posibilidades laborales en el campo de la programación, pero bueno, en este país Técnico en Ingeniería de Sistemas es limpiar PC's, creo.
+Los últimos 15 años he estado entre, el desarrollo de sistemas de información, estudiando seguridad informática continuamente, el desarrollo de software, computación científica, hardware, gaming, linux, servidores, y uno que otro tema mas, todos girando alrededor como un sistema solar, nunca se detienen.
+
+Despejaré algunas variables personales por acá.
+
+* Nací en Bucaramanga (Santander) en 1982, toda la vida he vivido en esta linda ciudad.
+* Hincha del Diablo Rojo de Colombia, a pesar de ser de Bucaramanga, nunca me he sentido representado de ninguna manera con el equipo local.
+* Me encanta los juegos de PC, por aquí mi perfil en [Steam] (http://steamcommunity.com/id/{{ site.steam }})
