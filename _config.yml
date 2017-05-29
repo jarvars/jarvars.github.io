@@ -32,7 +32,7 @@ disqus_shortname:   jarvars
 # if you don't have any of social below, comment the line.
 #google:
   #plus:            #username
-  #analytics:
+  analytics:        UA-98491146-1
   #verify:
   #ad-client:
   #ad-slot:
