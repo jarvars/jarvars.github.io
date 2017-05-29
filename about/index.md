@@ -20,12 +20,11 @@ comments: false
 * Fútbol y América de Cali
 * ...Undefinied Variables
 
-## Preview
+## Mi
 
-{% capture images %}
-    assets/img/me/me_cp.jpg    
-{% endcapture %}
-{% include gallery images=images caption="Yo." cols=2 %}
+<figure>
+    /assets/img/me/me_cp.jpg    
+</figure>
 
 ## Despejar variables
 
