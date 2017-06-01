@@ -3,7 +3,7 @@ layout: page
 title: Sobre mí
 tags: [about, cv, jarvars, mí]
 date: 2016-03-21
-comments: false
+comments: true
 ---
 
 <center><a href="http://jarvars.github.io"><b>JarVars</b></a> es un blog personal, el cual a modo de contenedor de variables, pretende mostrar cada una de mis aficiones y experiencias sobre estás.</center>
