@@ -15,7 +15,7 @@ Blog personal, el cual a modo de contenedor de variables, pretende describir cad
 
 ## Mi
 
-[[https://github.com/jarvars/jarvars.github.io/blob/master/assets/img/mi/me_cp.jpg|alt=Yo]]    
+![Yo en CP2009](https://github.com/jarvars/jarvars.github.io/blob/master/assets/img/mi/me_cp.jpg)
 
 ## Jorge Reyes
 
