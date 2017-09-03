@@ -10,6 +10,7 @@ comments: true
 
 >Antes de que el software pueda ser reusable, primero tiene que ser usable. Ralph Johnson
 
+Y como dice la cita del CEO y fundador de [Iconfinder](https://www.iconfinder.com/), la piedra angular de un buen diseño de interfaz de usuario es que si los usuarios necesitan instrucciones para interactuar con una interfaz, el diseño no es bueno. Obviamente, hay aplicaciones con particularidades complejas y existirán excepciones a la regla, pero todos los desarrolladores deben tratar de hacer que su interfaz sea lo más evidente posible, teniendo en cuenta entonces, el contexto de su aplicación.
 * El usuario no puede llevarse sorpresas.
 * No se requiere ayuda.
 * No aplica el [RTFM](https://es.wikipedia.org/wiki/RTFM).
