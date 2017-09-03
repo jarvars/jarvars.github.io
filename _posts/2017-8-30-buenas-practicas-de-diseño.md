@@ -4,6 +4,7 @@ title: "Algunas buenas prácticas de diseño de interfaz de usuario"
 date: 2016-08-30
 excerpt: "Generalmente prácticas de usabilidad, aquí, algunas buenas prácticas."
 tags: [diseño, interfaces, gui]
+feature: /assets/img/reglas_ui/pre.png
 comments: true
 ---
 >Una interfaz de usuario es como una broma. Si tienes que explicarla, no es buena. Martin LeBlanc (icon finder)
@@ -44,6 +45,7 @@ Relacionada a la anterior, no tiene instrucciones porque se supone que es intuit
 
 Tradicionalmente los enlaces en la web estan subrayados y cambian de color cuando el puntero esta sobre el enlace, estimula al usuario el hacer un clic sobre esta palabra. El término tiene origen en un neologismo del inglés ["affordance"](https://es.wikipedia.org/wiki/Ofrecimiento), el cual tiene un transfondo en la psicología cognitiva y de la percepción, ciencia sobre la cual se han dado numerosos estudios para la definir prácticas recomendadas y la definición de normas y estandares como [ISO 9241-210:2010 Ergonomics of human-system interaction – Part 210: Human-centred design for interactive systems](https://www.iso.org/standard/52075.html). Otro ejemplo son los botones y las barras de desplazamiento.
 
+¿Usar cajas de selección para que el usuario seleccione solo una opción?
 ### Sexo:
 * [x] Masculino
 * [x] Femenino
