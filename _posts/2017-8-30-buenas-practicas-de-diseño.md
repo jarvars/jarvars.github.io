@@ -15,18 +15,18 @@ Y como dice la cita del CEO y fundador de [Iconfinder](https://www.iconfinder.co
 * No se requiere ayuda.
 * No aplica el [RTFM](https://es.wikipedia.org/wiki/RTFM).
 
-#Un clásico ejemplo de las instrucciones y la interfaz para usar una puerta.
+# Un clásico ejemplo de las instrucciones y la interfaz para usar una puerta.
 
 <figure>
     <img src="/assets/img/reglas_ui/push_pull.png">
 </figure>
 
-#Instrucciones que ya sobran con el paso del tiempo.
+# Instrucciones que ya sobran con el paso del tiempo.
 <figure>
-    <img src="/assets/img/reglas_ui/instrucciones.png">
+    <img src="/assets/img/reglas_ui/instrucciones.PNG">
 </figure>
 
-#Una buena interfaz de usuario es:
+# Una buena interfaz de usuario es:
 
 * Intuitiva
 * Eficiente, sin bloqueos
