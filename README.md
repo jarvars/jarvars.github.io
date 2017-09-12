@@ -1,4 +1,4 @@
-# [JarVars](https://jarvars.github.io)
+# [JARVARS](https://jarvars.github.io)
 Blog personal, el cual a modo de contenedor de variables, pretende describir cada una de mis aficiones y experiencias sobre estás mismas.
 
 ## Variables
