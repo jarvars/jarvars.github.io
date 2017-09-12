@@ -6,7 +6,7 @@ date: 2016-03-21
 comments: true
 ---
 
-<center><a href="http://jarvars.github.io"><b>JarVars</b></a> es un blog personal, el cual a modo de contenedor de variables, pretende mostrar cada una de mis aficiones y experiencias sobre estás.</center>
+<center><a href="http://jarvars.github.io"><b>JARVARS</b></a> es un blog personal, el cual a modo de contenedor de variables, pretende mostrar cada una de mis aficiones y experiencias sobre estás.</center>
 
 ## Variables
 * Desarrollo de Software
