@@ -32,7 +32,7 @@ Despejaré algunas variables personales por acá.
 
 * Nací en Bucaramanga (Santander) en 1982, toda la vida he vivido en esta linda ciudad.
 * Hincha del Diablo Rojo de Colombia, a pesar de ser de Bucaramanga, nunca me he sentido representado de ninguna manera con el equipo local.
-* Entusiasta del PC Gaming o juegos en PC para los no conocedores, por aquí mi perfil en [Steam](http://steamcommunity.com/id/{{ site.steam }}).
+* Entusiasta del PC Gaming o juegos en PC para los no conocedores, por aquí mi perfil en [Steam](http://steamcommunity.com/id/jarvars).
 
 ## Moon for Jekyll
 
