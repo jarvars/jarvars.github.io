@@ -5,7 +5,7 @@ description:        "Blog personal, el cual a modo de contenedor de variables, p
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo1.png'
-background:         'assets/img/back-big.jpg'
+background:         'assets/img/backg.png'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             es_CO
 url:                https://jarvars.github.io/
