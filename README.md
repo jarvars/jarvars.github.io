@@ -3,14 +3,9 @@ Blog personal, el cual a modo de contenedor de variables, pretende describir cad
 
 ## Variables
 * Desarrollo de Software
-* Desarrollo Web
 * Testing y QA
-* Cultura Digital
-* Evangelista de la PC Master Race
 * Hardware, Modding
-* PC/Server Builder
 * PC Gaming
-* Fútbol y América de Cali
 * ...Undefinied Variables
 
 ## Mi
@@ -21,7 +16,7 @@ Blog personal, el cual a modo de contenedor de variables, pretende describir cad
 
 Desde pequeño tuve disposición y curiosidad con la informática en general, a los 12 años, por allá en el ´94, desarmé un PC por mera curiosidad, porque no pude encenderlo ya que tenia una contraseña de usuario, luego pude saltarme esa "seguridad" y tuve contacto con lo que llaman un sistema operativo...hasta ahí funcionó bien.
 Estudié por ahí una carrera Técnica en Ingeniería de Sistemas, supuestamente era una carrera que abriría posibilidades laborales en el campo de la programación, pero bueno, en este país Técnico en Ingeniería de Sistemas es limpiar PC's, creo.
-Los últimos 15 años he estado entre el desarrollo de sistemas de información, estudiando seguridad informática continuamente, el desarrollo de software, computación científica, hardware, gaming, linux, servidores, y uno que otro tema mas, todos girando alrededor como un sistema solar, nunca se detienen.
+Los últimos 15 años he estado entre el desarrollo de sistemas de información, estudiando seguridad informática continuamente, el desarrollo de software, computación científica, hardware, gaming, linux, servidores, devops, automatización y uno que otro tema mas, todos girando alrededor como un sistema solar, nunca se detienen.
 
 ## Despejar variables
 
@@ -32,7 +27,7 @@ Despejaré algunas variables personales por acá.
 
 * Nací en Bucaramanga (Santander) en 1982, toda la vida he vivido en esta linda ciudad.
 * Hincha del Diablo Rojo de Colombia, a pesar de ser de Bucaramanga, nunca me he sentido representado de ninguna manera con el equipo local.
-* Entusiasta del PC Gaming o juegos en PC para los no conocedores, por aquí mi perfil en [Steam](http://steamcommunity.com/id/jarvars).
+* Entusiasta del PC Gaming, por aquí mi perfil en [Steam](http://steamcommunity.com/id/jarvars).
 
 ## Moon for Jekyll
 

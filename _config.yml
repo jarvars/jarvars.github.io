@@ -8,7 +8,7 @@ logo:               'assets/img/logo1.png'
 background:         'assets/img/backg.png'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             es_CO
-url:                https://jarvars.github.io/
+url:                https://jarvars.github.io
 
 # Jekyll
 permalink:          /:title/
@@ -42,9 +42,9 @@ twitter:            jar_vars
 #facebook:           jarvars
 github-url:         jarvars
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-#linkedin:          username
+linkedin:           jarvars
 #xing:              username
-instagram:          jarvars
+#instagram:         jarvars
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'
