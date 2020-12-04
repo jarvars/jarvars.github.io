@@ -4,6 +4,7 @@ title: "Novedades en Powershell 7.1"
 date: 2020-12-03
 excerpt: "Construida sobre .NET 5."
 tags: [powershell, net5, microsoft, cmdlet]
+feature: /assets/img/ps7Store.jpg
 comments: true
 ---
 Inicio revisando un poco la ruta de Powershell hasta el momento. Windows Powershell ha sido incluido desde Windows 7 SP1 y Windows Server 2008 R2 SP1, usando .NET Framework, versión tradicional de .NET, por lo que no es una versión multiplataforma, ni soporta las características de .NET Core. Luego, Microsoft lanzó PowerShell Core con el nuevo .NET Core, siendo una nueva versión multiplataforma y por lo tanto disponible en Windows, Linux y macOS. Microsoft ahora mantiene PowerShell Core como código abierto y está disponible en [GitHub](https://github.com/PowerShell/PowerShell). Estos cambios impulsan drásticamente el alcance de PowerShell como framework de automatización en múltiples plataformas y casos de uso, finalmente, separar Powershell de los lanzamientos de Windows le permite a Microsoft adoptar una postura mucho más agresiva para lanzar nuevas funciones y características de PowerShell, cada tres meses.
