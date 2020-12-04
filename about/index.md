@@ -27,15 +27,15 @@ comments: true
 ## Despejar variables
 
 He estado postergando durante mucho tiempo, escribir algo de cada una de las cosas que me apasionan y en las que afortunadamente me desenvuelvo, trabajo y me muevo diariamente.
-Poco a poco este espacio debe irse llenando de esas variables que iré despejando y de esta manera compartir mis experiencias durante la formación, análisis y despeje de las variables.
+Poco a poco este espacio debe irse llenando de esas variables que iré despejando y de esta manera compartir mis experiencias.
 
-## Jorge Reyes
+## Jorge Reyes Vargas
 
-Desde pequeño tuve disposición y curiosidad con la informática en general, a los 12 años, por allá en el ´94, desarmé un PC por mera curiosidad, porque no pude encenderlo ya que tenia una contraseña de usuario, luego pude saltarme esa "seguridad" y tuve contacto con lo que llaman un sistema operativo... hasta ahí funcionó bien.
-Estudié por ahí una carrera Técnica en Ingeniería de Sistemas, supuestamente era una carrera que abriría posibilidades laborales en el campo de la programación, pero bueno, en este país Técnico en Ingeniería de Sistemas es limpiar PC's.
-Los últimos años he estado entre, desarrollo de software, estudiando seguridad informática, hardware, gaming, linux, servidores, y uno que otro tema mas, todos girando alrededor como un sistema solar, nunca se detienen.
+Desde pequeño tuve disposición y curiosidad con la informática en general, a los 12 años, por allá en el ´94, desarmé un PC porque no pude encenderlo ya que tenia una contraseña de usuario, luego pude saltarme esa "seguridad" y tuve contacto con lo que llaman un sistema operativo... hasta ahí funcionó bien.
+Los últimos años he estado entre, desarrollo y calidad de software, estudiando seguridad informática, hardware, gaming, software libre, automatización, y uno que otro tema mas, todos girando a mi alrededor como un sistema solar, nunca se detienen.
 
-Despejaré algunas variables personales por acá.
+Variables personales:
 
-* Nací en Bucaramanga (Santander) en 1982, toda la vida he vivido en esta linda ciudad.
-* Entusiasta del PC Gaming o juegos en PC para los no conocedores, por aquí mi perfil en [Steam](http://steamcommunity.com/id/{{ site.steam }}).
+* Nací en Bucaramanga (Santander), toda la vida he vivido en esta linda ciudad.
+* Entusiasta del PC Gaming, por aquí mi perfil en [Steam](http://steamcommunity.com/id/{{ site.steam }}).
+* Me encanta cocinar, me considero un cocinero recreativo.
