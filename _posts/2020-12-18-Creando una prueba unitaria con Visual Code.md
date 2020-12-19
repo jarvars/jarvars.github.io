@@ -29,7 +29,9 @@ Realizo la descarga para Windows en plataforma x64 de la columna **Build apps �
 
 Voy a verificar en una consola de powershell que .Net 5 este disponible, consultando la versión de .Net instalada con el siguiente comando:
 
-  >dotnet –-version
+{% raw %}
+dotnet –-version
+{% endraw %}
 
 <figure>
 <img src="/assets/img/nunit-net5/dotnetVersion.jpg">
@@ -41,7 +43,9 @@ De esta manera valido la versión de .Net instalada y que funciona correctamente
 
 Listo, verificada la versión de .Net instalada, desde la misma consola voy a abrir Visual Code para empezar a trabajar en el directorio actual con el siguiente comando, tener el cuenta que el punto indicado como parámetro le indica a Visual Code que abra el directorio actual.
 
->code .
+{% raw %}
+code .
+{% endraw %}
 
 <figure>
 <img src="/assets/img/nunit-net5/openVcode.jpg">
@@ -54,8 +58,9 @@ Desde Visual Code puedo seguir trabajando con una consola de Powershell y en el 
 </figure>
 
 Voy a crear una solución, parte de la magia disponible en .Net 5 y desde las primeras versiones de .Net Core, es el uso de la CLI de .Net para realizar estas tareas desde consola. Listo, con el siguiente comando creo la solución de .Net, el parámetro **–n** indica el nombre que le asignaré a la solución:
-
->dotnet new sln -n 'NUnitTests'
+{% raw %}
+dotnet new sln -n 'NUnitTests'
+{% endraw %}
 
 <figure>
 <img src="/assets/img/nunit-net5/vsCodeSolucion.jpg">
@@ -63,7 +68,9 @@ Voy a crear una solución, parte de la magia disponible en .Net 5 y desde las pr
 
 Ahora que tengo una solución necesito crear el proyecto de prueba unitaria con NUnit, para esto, el equipo de NUnit dispone de una plantilla de proyecto que está incluida en el SDK de .Net, por lo tanto puedo crear el proyecto desde la CLI de .Net, y al igual que el comando de creación de la solución, el parámetro **–n** indica el nombre del proyecto.
 
->dotnet new nunit -n Net5.Tests
+{% raw %}
+dotnet new nunit -n Net5.Tests
+{% endraw %}
 
 <figure>
 <img src="/assets/img/nunit-net5/vsCodeProyecto.jpg">
@@ -83,7 +90,9 @@ Y en el archivo de proyecto se visualiza las dependencias que incluye la plantil
 
 Ahora necesito vincular el proyecto a la solución creada anteriormente, con el siguiente comando:
 
->dotnet sln add Net5.Tests/Net5.Tests.csproj
+{% raw %}
+dotnet sln add Net5.Tests/Net5.Tests.csproj
+{% endraw %}
 
 <figure>
 <img src="/assets/img/nunit-net5/AddProyecto.jpg">
@@ -117,7 +126,9 @@ Ya para finalizar ejecuto la prueba y reviso el resultado esperado, antes que na
 
 Para compilar el proyecto con .Net 5, teniendo en cuenta que estoy ubicado en el mismo directorio de la solución:
 
+{% raw %}
 > dotnet build .
+{% endraw %}
 
 <figure>
 <img src="/assets/img/nunit-net5/donetBuild.jpg">
@@ -125,7 +136,9 @@ Para compilar el proyecto con .Net 5, teniendo en cuenta que estoy ubicado en el
 
 Y para finalizar, el comando para ejecutar la prueba construida, muy breve, muy fácil:
 
+{% raw %}
 > dotnet test
+{% endraw %}
 
 Tener en cuenta la salida del comando, indicando las pruebas detectadas y el resultado de las mismas de acuerdo a su estado, fallidas, completadas, ignoradas.
 
