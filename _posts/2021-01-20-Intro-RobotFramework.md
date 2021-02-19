@@ -25,7 +25,7 @@ El proyecto está completamente alojado en [GitHub](https://github.com/robotfram
 
 Ejemplo básico de un script con Robot Framework
 
-{% highlight python %}
+{% highlight robot %}
 *** Settings ***
 Documentation     A test suite with a single test for valid login.
 ...
