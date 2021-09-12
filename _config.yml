@@ -29,9 +29,7 @@ sass:
 disqus_shortname:   https-jarvars-github-io
 
 # Social
-# if you don't have any of social below, comment the line.
 google:
-  #plus:            #username
   analytics:        UA-98491146-1
   verify:           UA-98491146-1
   #ad-client:
@@ -39,18 +37,18 @@ google:
 bing-verify:        E048A84BFA40794D5B4E5B20BECEBDB6
 email:              soyjarvars@gmail.com
 twitter:            jar_vars
-#facebook:           jarvars
 github-url:         jarvars
-stackoverflow:     8761328/jarvars   #from a "http://stackoverflow.com/users/123456/username" link
+stackoverflow:      8761328/jarvars
 linkedin:           jarvars
+steam:              jarvars
+#facebook:          username
 #xing:              username
-#instagram:         jarvars
+#instagram:         username
 #lastfm:            username
 #tumblr:            username
 #medium:            '@username'
 #pinterest:         username
 #foursquare:        username
-steam:              jarvars
 #dribbble:          username
 #youtube:           username
 #youtube-channel:   channel
