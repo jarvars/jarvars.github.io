@@ -10,17 +10,21 @@ comments: true
 
 # Contenido
 - [Contenido](#contenido)
-- [¿Qué es infraestrutura como código?](#qué-es-infraestrutura-como-código)
+- [Infraestructura como código](#infraestructura-como-código)
+  - [¿Qué es infraestrutura como código?](#qué-es-infraestrutura-como-código)
   - [Principios de IaC](#principios-de-iac)
   - [Prácticas generales de IaC](#prácticas-generales-de-iac)
-- [Tipos de herramientas para implementar IaC](#tipos-de-herramientas-para-implementar-iac)
-  - [Herramientas para definicion de infraestructura](#herramientas-para-definicion-de-infraestructura)
-  - [Herramientas para configuracion de servidores](#herramientas-para-configuracion-de-servidores)
+  - [Tipos de herramientas para implementar IaC](#tipos-de-herramientas-para-implementar-iac)
+    - [Herramientas para definicion de infraestructura](#herramientas-para-definicion-de-infraestructura)
+    - [Herramientas para configuracion de servidores](#herramientas-para-configuracion-de-servidores)
   - [Enfoques para gestión de servidores](#enfoques-para-gestión-de-servidores)
   - [Factores para elegir una herramienta de IaC](#factores-para-elegir-una-herramienta-de-iac)
   - [Herramientas conocidas](#herramientas-conocidas)
+  - [Beneficios de la IaC](#beneficios-de-la-iac)
 
-# ¿Qué es infraestrutura como código?
+# Infraestructura como código
+
+## ¿Qué es infraestrutura como código?
 
 Práctica de aplicar los principios de desarrollo de software para automatizar los procesos de creación infraestructura. 
 
@@ -58,11 +62,11 @@ Práctica de aplicar los principios de desarrollo de software para automatizar l
 **Mantener servicios continuamente disponibles**
 : Teniendo en cuenta que es muy fácil crear y recrear infraestructura, mantener los servicios de infraestructura siempre disponibles, es mas fácil.
 
-# Tipos de herramientas para implementar IaC
+## Tipos de herramientas para implementar IaC
 
 En términos generales, estas herramientas se dividen en dos categorías:
 
-## Herramientas para definicion de infraestructura
+### Herramientas para definicion de infraestructura
 
 Permiten especificar que recursos de infraestructura crear y como deben configurarse. Los recursos de infraestructura pueden ser máquinas virtuales, interfaces de red, discos duros, plataforma como servicio. Los **archivos de definicion de configuracion** es donde se define la infraestructura a crear, todas las herramientas tienen archivos de configuración en diferentes formatos y lenguajes. Estos archivos son útiles para la automatizacion de la infraestructura.
 
@@ -79,7 +83,7 @@ ami           = "ami-abc123"
 }
 {% endhighlight %}
 
-## Herramientas para configuracion de servidores 
+### Herramientas para configuracion de servidores 
 
 Permiten configurar los servidores con el estado deseado. Por ejemplo, instalar dependencias, crear directorios, usuarios, permisos, etc.
 
@@ -110,3 +114,21 @@ Permiten configurar los servidores con el estado deseado. Por ejemplo, instalar 
 | Terraform                     | Ansible                     |
 | Cloud formation               | Chef                        |
 | Open stack heat               | Puppet                      |
+
+## Beneficios de la IaC
+
+**Creacion rapida bajo demanda**
+: Por medio de los archivos de definición, se crea una única vez el archivo vez y la infraestructura se crea rápidamente al ejecutar esa definición.
+
+**Automatizacion**
+: Con los mismos archivos de definición se beneficia automatizando la ejecución de dichas definiciones.
+**Visibilidad y trazabilidad**
+: A partir de un adecuado versionamiento se benefica de visibilidad de los cambios y una adecuada trazabilidad.
+
+**Ambientes homogéneos**
+: Una misma definición permite crear varios ambientes de la misma infraestructura.
+
+**Fácil de testear** 
+: Existen herramientas para testear la creación y configuración.
+
+
