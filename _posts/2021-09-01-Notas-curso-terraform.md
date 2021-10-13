@@ -21,6 +21,12 @@ comments: true
   - [Factores para elegir una herramienta de IaC](#factores-para-elegir-una-herramienta-de-iac)
   - [Herramientas conocidas](#herramientas-conocidas)
   - [Beneficios de la IaC](#beneficios-de-la-iac)
+  - [Herramientas para construir infraestructura inmutable](#herramientas-para-construir-infraestructura-inmutable)
+    - [Packer](#packer)
+- [Terraform](#terraform)
+  - [¿Qué es Terraform?](#qué-es-terraform)
+  - [Características de Terraform](#características-de-terraform)
+  - [Terraform vs Ansible](#terraform-vs-ansible)
 
 # Infraestructura como código
 
@@ -132,3 +138,57 @@ Permiten configurar los servidores con el estado deseado. Por ejemplo, instalar 
 : Existen herramientas para testear la creación y configuración.
 
 
+## Herramientas para construir infraestructura inmutable
+
+### Packer
+
+Herramienta creada por Hashicorp para crear imagenes en cualquier nube, usa formato JSON.
+
+Ejemplo script packer:
+
+variables
+: Define las variables a utilizar, se puede indicar variables de entorno.
+
+builders
+: Define el origen de la imagen base.
+
+provisioners
+: Personaliza la imagen en construcción, permite añadir paquetes, crear directorios, actualizar paquetes.
+
+post-processor
+: Permite obtener archivos de salida y ejecutar comandos despues de crear la infraestructura.
+
+# Terraform
+
+## ¿Qué es Terraform?
+
+Herramienta Open Source desarrollada en lenguaje Go por HashiCorp, permite crear y administrar infraestructura. 
+Funciona interactúando con las APIs de los proveedores de nube pública como AWZ, Azure o GCP, o privada como Openstack y Vsphere.
+
+## Características de Terraform
+
+- Herramienta de Infraestructura como código.
+
+- Permite crear planes de ejecución.
+
+- Fácil de automatizar.
+
+## Terraform vs Ansible
+
+Infraestructura mutable
+: La infraestructura puede tener cambios luego de desplegada para conseguir un nuevo estado.
+
+Infraestructura inmutable
+: La infraestructura cambia de estado solo a partir del archivo de configuración.
+
+Lenguaje declarativo
+: Indica qué hacer, en lugar de cómo hacerlo.
+
+Lenguaje procedural o imperativo
+: Indica cómo hacer, en lugar de qué hacer.
+
+Terraform                     | Ansible                  |
+| --                          | --                       |
+Gestión de infraestructura    | Gestión de configuración |
+Infraestructura inmmutable    | Infraestructura mutable  | 
+Lenguaje declarativo (Packer) | Lenguaje procedimental   |
