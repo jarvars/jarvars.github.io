@@ -3,7 +3,6 @@ layout: post
 title: "10 tips para crear una cultura colaborativa DevOps"
 date: 2024-11-03
 excerpt: "Resumen de https://www.red-gate.com/simple-talk/devops/culture/ten-tips-building-collaborative-devops-culture"
-project: true
 tags: [devops, culture, leadership]
 feature: /assets/img/ten_tips_devops_culture.jpg
 comments: true
