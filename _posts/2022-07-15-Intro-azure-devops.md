@@ -3,7 +3,6 @@ layout: post
 title: "Notas de estudio: Continuous Testing with Azure DevOps"
 date: 2022-07-15
 excerpt: "Continuous Testing with Azure DevOps - TAU"
-project: true
 tags: [devops, azure, testing, tau]
 comments: true
 ---
