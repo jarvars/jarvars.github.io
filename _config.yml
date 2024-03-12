@@ -1,45 +1,46 @@
 # Site
-title:              Jorge Reyes Vargas
-bio:                'Un contenedor de variables.'
-description:        "Blog personal, el cual a modo de contenedor de variables, pretende describir cada una de mis aficiones y experiencias sobre estás mismas."
-reading_time:       true
-words_per_minute:   200
-logo:               'assets/img/logo1.png'
-background:         'assets/img/backg.png'
-tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
-locale:             es_CO
-url:                https://jarvars.github.io
+title: Jorge Reyes Vargas
+bio: 'Un contenedor de variables.'
+description: "Blog personal para relatar cada una de mis aficiones y experiencias sobre estás mismas."
+reading_time: true
+words_per_minute: 200
+logo: 'assets/img/logo1.png'
+background: 'assets/img/backg.png'
+tiled_bg: false   # Set this true if you want to tile your background image, otherwise it will be covered
+locale: es_CO
+url: https://jarvars.github.io
 
 # Jekyll
-permalink:          /:title/
-markdown:           kramdown
-highlighter:        rouge
+permalink: /:title/
+markdown: kramdown
+highlighter: rouge
+timezone: America/Bogota
 kramdown:
-  auto_ids:         true
-  footnote_nr:      1
-  entity_output:    as_char
-  toc_levels:       1..6
-  enable_coderay:   false
-mathjax:            true
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  enable_coderay: false
+mathjax: true
 sass:
-  sass_dir:         _sass
-  style:            compressed
+  sass_dir: _sass
+  style: compressed
 
 # Comments
-disqus_shortname:   https-jarvars-github-io
+disqus_shortname: https-jarvars-github-io
 
 # Social
 google:
-  analytics:        G-QLYM5YCEN9
-  verify:           G-QLYM5YCEN9
+  analytics: G-QLYM5YCEN9
+  verify: G-QLYM5YCEN9
   #ad-client:
   #ad-slot:
-bing-verify:        E048A84BFA40794D5B4E5B20BECEBDB6
-email:              soyjarvars@gmail.com
+bing-verify: E048A84BFA40794D5B4E5B20BECEBDB6
+email: soyjarvars@gmail.com
+github-url: jarvars
+stackoverflow: 8761328/jarvars
+linkedin: jarvars
 #twitter:            username
-github-url:         jarvars
-stackoverflow:      8761328/jarvars
-linkedin:           jarvars
 #steam:             username
 #facebook:          username
 #xing:              username
