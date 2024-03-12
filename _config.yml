@@ -15,6 +15,7 @@ permalink: /:title/
 markdown: kramdown
 highlighter: rouge
 timezone: America/Bogota
+future: true
 kramdown:
   auto_ids: true
   footnote_nr: 1
