@@ -2,26 +2,16 @@
 layout: post
 title: "10 tips para crear una cultura colaborativa DevOps"
 date: 2024-11-03
+excerpt: "Resumen de post original"
+project: false
 tags: [devops, culture, leadership]
 feature: /assets/img/ten_tips_devops_culture.jpg
 comments: true
 ---
+
 Resumen de [https://www.red-gate.com/simple-talk/devops/culture/ten-tips-building-collaborative-devops-culture](https://www.red-gate.com/simple-talk/devops/culture/ten-tips-building-collaborative-devops-culture)
 
 > Una cultura de equipo eficaz no surge de la noche a la mañana. El equipo debe ser nutrido con capacitaciones y herramientas necesarias para lograr sus objetivos. La motivación del equipo para su éxito provendrá de los propios miembros, que trabajarán juntos de manera colaborativa para implementar aplicaciones más rápido y con menos errores. Pero para llegar a ese punto, necesitarán el compromiso del liderazgo de la organización y la seguridad de que recibirán el apoyo y el entorno que necesitan para trabajar juntos de manera cooperativa y cohesiva. Sólo así podrán ofrecer software de calidad de la manera más eficiente y rápida posible.
-
-# Contenido
-- [Contenido](#contenido)
-- [1. Liderazgo desde el inicio](#1-liderazgo-desde-el-inicio)
-- [2. Reunir al equipo adecuado](#2-reunir-al-equipo-adecuado)
-- [3. Proporcionar la formación y educación necesarias](#3-proporcionar-la-formación-y-educación-necesarias)
-- [4. Trabajar hacia una visión y objetivos comunes](#4-trabajar-hacia-una-visión-y-objetivos-comunes)
-- [5. Priorizar la comunicación abierta y transparente](#5-priorizar-la-comunicación-abierta-y-transparente)
-- [6. Establecer un ambiente de confianza y respeto](#6-establecer-un-ambiente-de-confianza-y-respeto)
-- [7. Empoderar al equipo con autonomía y propiedad](#7-empoderar-al-equipo-con-autonomía-y-propiedad)
-- [8. Inculcar un sentido de responsabilidad compartida](#8-inculcar-un-sentido-de-responsabilidad-compartida)
-- [9. Implementar las herramientas y tecnologías adecuadas](#9-implementar-las-herramientas-y-tecnologías-adecuadas)
-- [10. Establecer un patrón de aprendizaje y mejora continua](#10-establecer-un-patrón-de-aprendizaje-y-mejora-continua)
 
 # 1. Liderazgo desde el inicio
 
