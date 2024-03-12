@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "10 tips para crear una cultura colaborativa DevOps"
-date: 2024-11-03
+title: "Tips para crear una cultura colaborativa DevOps"
+date: 2024-03-10
 excerpt: "Resumen de post original"
 project: false
 tags: [devops, culture, leadership]
